@@ -1,6 +1,6 @@
-![gitDocumentation logo](https://github.com/bhdicaire/tobyBookmarks/raw/master/img/logo.png)
+![gitDocumentation logo](https://github.com/bhdicaire/tobyBookmarks/raw/main/img/logo.png)
 
-I used [Toby Bookmarks](https://www.gettoby.com/) – [Chrome Plugin](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip)
+I used [Toby Bookmarks](https://www.gettoby.com/) with the [Chrome Plugin](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip)
 for a while however there is no _official way_ to extract the content.
 
 It's a shame, this a great product to share link collection among a team.
@@ -16,4 +16,4 @@ I used [Krishnan Srinivasan's documentation](https://gist.github.com/krishpop/8a
 
 ## Licence
 
-Documentation is licensed [CC-BY-SA-4.0](https://github.com/bhdicaire/solarized/raw/master/LICENCSE). This licence is recommended by [Choose a License.com](https://choosealicense.com/) for non-software material such as documentation.
+The code is licensed under the [Unlicensed ](https://github.com/bhdicaire/solarized/raw/master/LICENCSE).This is free and unencumbered software released into the public domain.
